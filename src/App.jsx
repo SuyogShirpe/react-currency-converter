@@ -1,4 +1,4 @@
-import "bootstrap/dist/css/bootstrap.min.css";
+
 import React, { useState } from "react";
 import Input from "./components/InputBox";
 import useCurrencyInfo from "./custom_hooks/useCurrencyInfo";
